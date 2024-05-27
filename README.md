@@ -5,7 +5,7 @@
   ```
   git clone https://github.com/PhamNgocDuyPy/Tom-and-Jerry-MazeGame.git
   ```
-  ![Imgur](https://imgur.com/aO3GUPn)
+  <img src=(https://imgur.com/aO3GUPn)>
 - Cài đặt thư viện cần thiết pygame qua lệnh pip :
   ```
   python -m pip install pygame
